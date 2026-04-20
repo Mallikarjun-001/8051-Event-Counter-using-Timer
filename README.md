@@ -15,7 +15,7 @@ This project demonstrates:
 * Assembly programming for embedded systems
 * Multiplexing technique for multi-digit 7-segment displays
 * Simulation using Proteus
-
+  
 ---
 
 ## Hardware Requirements
