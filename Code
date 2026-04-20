@@ -4,7 +4,7 @@
 
 unsigned int arr[10]={0x40,0xF9,0x24,0x30,0x19,0x12,0x02,0xF8,0x00,0x10};
 
-sbit d3=P1^1;   // minute tens
+sbit d3=P1^1;   // minute tens 
 sbit d2=P1^2;   // minute units
 sbit d1=P1^3;   // second tens
 sbit d0=P1^4;   // second units
